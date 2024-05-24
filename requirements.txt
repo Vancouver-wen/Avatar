@@ -1,0 +1,3 @@
+jsonlines
+natsort
+torch>2.0.0
